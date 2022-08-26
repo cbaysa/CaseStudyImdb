@@ -1,0 +1,15 @@
+[INFO ] 2022-08-26 20:00:15,008 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/ is opened
+[INFO ] 2022-08-26 20:00:17,094 BasePageMethods.clickMenu() - Menu Button has been clicked
+[INFO ] 2022-08-26 20:00:23,801 BasePageMethods.clickOscars() - Oscars link under Awards&Events has been clicked
+[INFO ] 2022-08-26 20:00:23,822 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/oscars/?ref_=nv_ev_acd is opened
+[INFO ] 2022-08-26 20:00:26,508 BasePageMethods.clickYear() - 1929  has been clicked under Event History
+[INFO ] 2022-08-26 20:00:26,523 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/event/ev0000003/1929/1/?ref_=acd_eh is opened
+[INFO ] 2022-08-26 20:00:30,878 BasePageMethods.selectMovieFromHonoraryAwardSection() - Movie The Circus {} has been selected from Honorary Award Section
+[INFO ] 2022-08-26 20:00:30,896 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/title/tt0018773/?ref_=ev_nom is opened
+[INFO ] 2022-08-26 20:00:34,345 BasePageMethods.clickHomePageLink() - Home Page link has been clicked
+[INFO ] 2022-08-26 20:00:34,362 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/ is opened
+[INFO ] 2022-08-26 20:00:43,320 BasePageMethods.findMovieFromSearchBarAndClick() - Movie The Circus clicked from search results
+[INFO ] 2022-08-26 20:00:51,908 BasePageMethods.clickPhotosLink() - Photos link has been clicked
+[INFO ] 2022-08-26 20:00:51,925 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/title/tt0018773/mediaindex/?ref_=tt_mi_sm is opened
+[INFO ] 2022-08-26 20:01:25,881 BasePageMethods.checkBrokenLinksOnActivePage() - Broken links not found
+[INFO ] 2022-08-26 20:01:51,574 BasePageMethods.checkBrokenLinksOnActivePage() - Broken links not found

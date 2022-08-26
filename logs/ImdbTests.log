@@ -1,0 +1,14 @@
+[INFO ] 2022-08-26 20:03:05,081 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/ is opened
+[INFO ] 2022-08-26 20:03:06,285 BasePageMethods.clickMenu() - Menu Button has been clicked
+[INFO ] 2022-08-26 20:03:09,421 BasePageMethods.clickOscars() - Oscars link under Awards&Events has been clicked
+[INFO ] 2022-08-26 20:03:09,444 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/oscars/?ref_=nv_ev_acd is opened
+[INFO ] 2022-08-26 20:03:12,105 BasePageMethods.clickYear() - 1929  has been clicked under Event History
+[INFO ] 2022-08-26 20:03:12,128 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/event/ev0000003/1929/1/?ref_=acd_eh is opened
+[INFO ] 2022-08-26 20:03:17,267 BasePageMethods.selectMovieFromHonoraryAwardSection() - Movie The Jazz Singer {} has been selected from Honorary Award Section
+[INFO ] 2022-08-26 20:03:17,298 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/title/tt0018037/?ref_=ev_nom is opened
+[INFO ] 2022-08-26 20:03:23,598 BasePageMethods.clickHomePageLink() - Home Page link has been clicked
+[INFO ] 2022-08-26 20:03:23,711 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/ is opened
+[INFO ] 2022-08-26 20:03:34,930 BasePageMethods.findMovieFromSearchBarAndClick() - Movie The Jazz Singer clicked from search results
+[INFO ] 2022-08-26 20:03:38,220 BasePageMethods.clickPhotosLink() - Photos link has been clicked
+[INFO ] 2022-08-26 20:03:38,242 BasePageMethods.checkPageHasOpened() - URL https://www.imdb.com/title/tt0018037/mediaindex/?ref_=tt_mi_sm is opened
+[INFO ] 2022-08-26 20:04:22,662 BasePageMethods.checkBrokenLinksOnActivePage() - Broken links not found

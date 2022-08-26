@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Checking IMDB Movie Pages">
+    <!--parameter name="movie" value="The Circus"/-->
+    <parameter name="movie" value="The Jazz Singer"/>
+    <test name="Checking movie properties from different pages">
+        <classes>
+            <class name="test.ImdbTests"/>
+        </classes>
+    </test>
+</suite>
